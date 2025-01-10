@@ -4,7 +4,7 @@
 I'm a passionate developer who loves working with latest tech stacks. I enjoy learning new things and am constantly looking for opportunities to improve my skills and build cool projects. 🚀
 
 ## Skills
-- **Languages**: Java, HTML, CSS, JavaScript
+- **Languages**: Java, SQL, Basic - HTML, CSS, JavaScript
 - **Frameworks**: Spring boot
 - **Others**: DSA, JPA, Hibernate, Spring security, DAO / JWT Authentication
 
